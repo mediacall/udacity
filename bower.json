@@ -1,0 +1,17 @@
+{
+  "name": "game",
+  "description": "frontend-nanodegree-arcade-game ===============================",
+  "main": "index.js",
+  "authors": [
+    "nvnjwl <nvnjwl3@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
